@@ -5,7 +5,7 @@
     <div id="menu">
         <ul>
             <li><a class="logo" href="../">WeatherApp</a></li>
-            <li class="item-r"><a href="login.php">Iniciar sesión</a></li>
+            <li ><a href="login.php">Iniciar sesión</a></li>
         </ul>
     </div>
 </header>

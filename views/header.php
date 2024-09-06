@@ -6,7 +6,7 @@
     <div id="menu">
         <ul>
             <li><a class="logo" href="../">WeatherApp</a></li>
-            <li class="item-r border"><a href="signup.php">Registrase</a></li>
+            <li ><a href="signup.php">Registrarse</a></li>
         </ul>
     </div>
 </header>
