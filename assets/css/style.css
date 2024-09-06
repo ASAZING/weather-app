@@ -177,13 +177,21 @@ li {
     .navbar-brand {
         font-size: 1.2rem;
     }
+    .navbar-collapse {
+        text-align: center;
+    }
     
     .nav-link {
         font-size: 1rem;
         text-align: center;
+        padding: 10px 15px;
     }
 
     .navbar-collapse {
         text-align: center;
     }
+}
+
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1);
 }
